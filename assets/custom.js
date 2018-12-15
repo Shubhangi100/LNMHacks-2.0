@@ -1,6 +1,6 @@
 
 
-// A $( document ).ready() block.
+// A $( document ).ready() block
 $( document ).ready(function() {
     console.log( "Are you a #hacker too ? Find a cookie at the event. Here is the code : 'codered' !" );
     // ScrollReveal Config
